@@ -52,3 +52,11 @@ name: Hadezlina, reason: clueless RL who just yells at ppli instead of actually 
 name: Gozrion, reason: looses a picking off a dreamfoil , dateadded: 260925, status:medium, level:??;
 name: Myshu, reason: need rolls and goobs chests in kara halls, dateadded: 021225, status:high, level:??;
 name: Oxhnor, reason: asspulls in k10 wipes and leaves us, dateadded: 201225, status:high, level:??;
+name: Dashaoye, reason: queues for Strat live as healer, gets Medivh's feather, leaves, dateadded: 301225, status:medium, level:??;
+name: Aldebarran, reason: do only 2 thing ninja pull+ ninja loot and dont do anydamage, dateadded: 281225, status:medium, level:??;
+name: Voreon, reason: invites people to a pug, doesnt say anything about having SR+ and proceeds to kick when u ask about it, dateadded: 151225, status:high, level:??;
+name: Olinsonsship, reason: petty camping of mob because he lost tag while mobtagging, dateadded: 091225, status:low, level:??;
+name: Jiara, reason: ancerous to play with. random sheep pulls when everyone is still moving. trying to give "tips" on how to play, dateadded: 041225, status:low, level:??;
+name: Cringeindeed, reason: Demands stuff, kicks ppl form K10 for not getting it, dateadded: 231125, status:medium, level:??;
+name: Willynilly, reason: Asshole to guild in raids and raids guildbank for items, dateadded: 121225, status:high, level:??;
+name: Xristos, reason: Aguy legit rolls on stuff he doesnt need and than tries to sell mid raid "ohh if someone wants ill sell for 20g" after people actually needed the item, dateadded: 111025, status:high, level:??;

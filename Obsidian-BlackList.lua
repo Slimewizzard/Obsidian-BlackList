@@ -64,4 +64,9 @@ Obsidian_External_Blacklist = {
     ["cringeindeed"] = { name = "Cringeindeed", reason = "Demands stuff, kicks ppl form K10 for not getting it", dateadded = "231125", status = "medium", level = "??" },
     ["willynilly"] = { name = "Willynilly", reason = "Asshole to guild in raids and raids guildbank for items", dateadded = "121225", status = "high", level = "??" },
     ["xristos"] = { name = "Xristos", reason = "Aguy legit rolls on stuff he doesnt need and than tries to sell mid raid \"ohh if someone wants ill sell for 20g\" after people actually needed the item", dateadded = "111025", status = "high", level = "??" },
+    ["grizznix"] = { name = "Grizznix", reason = "Tries to goob idol from ZG summonedboss when he aint even summoning", dateadded = "060126", status = "medium", level = "??" },
+    ["dashaoye"] = { name = "Dashaoye", reason = "Joins Strat UD leaves after he gets feather", dateadded = "281225", status = "low", level = "??" },
+    ["aldebarran"] = { name = "Aldebarran", reason = "this guy  do only 2 thing ninja pull+ ninja loot and dont do anydamage, if he no pull  he going cat and do vanish in all fight", dateadded = "281225", status = "medium", level = "??" },
+    ["voreon"] = { name = "Dashaoye", reason = "invites people to a pug, doesnt say anything about having SR+ and proceeds to kick when u ask about it", dateadded = "151225", status = "low", level = "??" },
+    
 }

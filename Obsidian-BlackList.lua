@@ -68,5 +68,7 @@ Obsidian_External_Blacklist = {
     ["dashaoye"] = { name = "Dashaoye", reason = "Joins Strat UD leaves after he gets feather", dateadded = "281225", status = "low", level = "??" },
     ["aldebarran"] = { name = "Aldebarran", reason = "this guy  do only 2 thing ninja pull+ ninja loot and dont do anydamage, if he no pull  he going cat and do vanish in all fight", dateadded = "281225", status = "medium", level = "??" },
     ["voreon"] = { name = "Voreon", reason = "invites people to a pug, doesnt say anything about having SR+ and proceeds to kick when u ask about it", dateadded = "151225", status = "low", level = "??" },
+    ["dazstroyah"] = { name = "Dazstroyah", reason = "Goobs tier items on open roll. MS rolls on OS and ignores ML when asked. ", dateadded = "070126", status = "medium", level = "60" },
     
 }
+
